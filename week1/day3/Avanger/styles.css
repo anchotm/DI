@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.imagebck {
+    background-image: center;
+    background-size: cover;
+}
+
+.nav {
+    background-color: grey;
+    text-align: right;
+    position: relative top;
+}
+
+h1 {
+    margin: 130px 200px;
+}
+
+footer {
+    background-color: red;
+    text-align: center;
+}
