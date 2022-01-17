@@ -29,11 +29,11 @@ if (newDog = "Chihuahua") {
 let num = parseInt(prompt("Enter a Number"));
 
 if (num % 2 == 1) {
-    prompt(`${num} is an even number`)
+    prompt(`${num} is an even number`);
 } else if (num != 0) {
-    prompt(`${num} is an odd number`)
+    prompt(`${num} is an odd number`);
 } else {
-    prompt('your number is 0')
+    prompt('your number is 0');
 }
 
 
